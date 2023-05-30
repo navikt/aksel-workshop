@@ -1,10 +1,28 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.tsx";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Step1 from "./step-1";
+import Step2 from "./step-2";
+
 import "./index.css";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Step1 />,
+  },
+  {
+    path: "/steg-1",
+    element: <Step1 />,
+  },
+  {
+    path: "/steg-2",
+    element: <Step2 />,
+  },
+]);
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} fallbackElement={<div>oops</div>} />
   </React.StrictMode>
 );
