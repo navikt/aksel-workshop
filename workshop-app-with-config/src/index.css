@@ -1,0 +1,11 @@
+@import "@navikt/ds-css";
+
+#root {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+main {
+  width: 40rem;
+}
