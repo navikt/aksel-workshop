@@ -21,3 +21,13 @@ cd app-with-config
 yarn install / npm install
 yarn dev / npm run dev
 ```
+
+## dir: app-completed
+
+POC-oppsett med bruk av komponenter
+
+```bash
+cd app-completed
+yarn install / npm install
+yarn dev / npm run dev
+```
