@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Step1 from "./step-1";
-import Step2 from "./step-2";
+import Step1 from "./step-1/step";
+import Step2 from "./step-2/step";
 
 import "./index.css";
 
