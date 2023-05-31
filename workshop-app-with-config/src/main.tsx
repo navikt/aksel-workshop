@@ -3,8 +3,6 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Step1 from "./step-1/step";
 import Step2 from "./step-2/step";
-import { Provider } from "@navikt/ds-react";
-
 import "./index.css";
 
 const router = createBrowserRouter([
@@ -24,8 +22,6 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    <Provider>
-      <RouterProvider router={router} fallbackElement={<div>oops</div>} />
-    </Provider>
+    <RouterProvider router={router} fallbackElement={<div>oops</div>} />
   </React.StrictMode>
 );
