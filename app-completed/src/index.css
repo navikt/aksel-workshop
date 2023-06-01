@@ -13,3 +13,7 @@ main {
 ul {
   margin: 0;
 }
+
+li {
+  margin-block: var(--a-spacing-2);
+}
