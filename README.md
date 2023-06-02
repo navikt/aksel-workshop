@@ -1,6 +1,10 @@
 # Aksel Workshop
 
-Intro for bruk av Aksel sine løsninger
+Intro for bruk av Aksel sine løsninger.
+
+- [Aksel dokumentasjon](https://aksel.nav.no/)
+- [Kom i gang med kodepakkene våre](https://aksel.nav.no/grunnleggende/kode/kom-i-gang-med-kodepakkene)
+- [Komponenter](https://aksel.nav.no/komponenter)
 
 ## dir: app (start her!)
 
