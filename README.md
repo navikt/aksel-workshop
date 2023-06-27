@@ -1,6 +1,9 @@
 # Aksel Workshop
 
-Intro for bruk av Aksel sine løsninger.
+- [Figma-skisse](Shorturl.at/lvQU3​)
+- [Presentasjon](.github/presentasjon.pdf)
+
+Intro for bruk av Aksel.
 
 - [Aksel dokumentasjon](https://aksel.nav.no/)
 - [Kom i gang med kodepakkene våre](https://aksel.nav.no/grunnleggende/kode/kom-i-gang-med-kodepakkene)
@@ -8,7 +11,9 @@ Intro for bruk av Aksel sine løsninger.
 
 ## dir: app (start her!)
 
-Enkelt startoppsett for å teste ut Aksel sine løsninger. Satt opp med Vite sin react-ts template.
+Enkelt startoppsett for å teste ut Aksel. Satt opp med Vite sin `react-ts` template.
+
+- [vite](https://vitejs.dev/guide/#trying-vite-online)
 
 ```bash
 cd app
@@ -16,19 +21,9 @@ yarn install / npm install
 yarn dev / npm run dev
 ```
 
-## dir: app-with-config
-
-Oppsett med Aksels løsninger allerede satt opp. Kan brukes som referanse hvis man sitter fast i `app`!
-
-```bash
-cd app-with-config
-yarn install / npm install
-yarn dev / npm run dev
-```
-
 ## dir: app-completed
 
-POC-oppsett med bruk av komponenter
+Ferdig oppsatt eksempel av app.
 
 ```bash
 cd app-completed
