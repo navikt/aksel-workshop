@@ -11,7 +11,7 @@ Intro for bruk av Aksel.
 
 ## Oppgave: Bli kjent med Aksel 🥳
 
-I mappen `app` ligger det kode for en enkel vitejs-app med routing. Oppgaven er å legge til Aksel, bruke komponentene og bli litt kjent med systemet.
+I mappen `app` ligger det kode for en enkel `vitejs`-app med routing. Legge til Aksel sine pakker, bruke komponentene og bli kjent med systemet. 🙌
 
 Vi har satt opp en skisse i [Figma](Shorturl.at/lvQU3​) slik at du har noe å bygge etter + blir litt kjent med Figma.
 
