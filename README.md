@@ -13,7 +13,7 @@ Intro for bruk av Aksel.
 
 I mappen `app` ligger det kode for en enkel `vitejs`-app med routing. Legge til Aksel sine pakker, bruke komponentene og bli kjent med systemet. 🙌
 
-Vi har satt opp en skisse i [Figma](Shorturl.at/lvQU3​) slik at du har noe å bygge etter + blir litt kjent med Figma.
+Vi har satt opp en skisse i [Figma](https://Shorturl.at/lvQU3​) slik at du har noe å bygge etter + blir litt kjent med Figma.
 
 ## Mappe: `app` (start her!) 1️⃣
 
