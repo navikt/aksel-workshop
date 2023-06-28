@@ -1,6 +1,6 @@
 # Aksel Workshop
 
-- [Figma-skisse](Shorturl.at/lvQU3​)
+- [Figma-skisser](https://Shorturl.at/lvQU3​)
 - [Presentasjon](.github/presentasjon.pdf)
 
 Intro for bruk av Aksel.
