@@ -6,10 +6,16 @@
 Intro for bruk av Aksel.
 
 - [Aksel dokumentasjon](https://aksel.nav.no/)
-- [Kom i gang med kodepakkene våre](https://aksel.nav.no/grunnleggende/kode/kom-i-gang-med-kodepakkene)
+- [Kom i gang med Aksel som utvikler](https://aksel.nav.no/grunnleggende/kode/kom-i-gang-med-kodepakkene)
 - [Komponenter](https://aksel.nav.no/komponenter)
 
-## dir: app (start her!)
+## Oppgave: Bli kjent med Aksel 🥳
+
+I mappen `app` ligger det kode for en enkel vitejs-app med routing. Oppgaven er å legge til Aksel, bruke komponentene og bli litt kjent med systemet.
+
+Vi har satt opp en skisse i [Figma](Shorturl.at/lvQU3​) slik at du har noe å bygge etter + blir litt kjent med Figma.
+
+## Mappe: `app` (start her!) 1️⃣
 
 Enkelt startoppsett for å teste ut Aksel. Satt opp med Vite sin `react-ts` template.
 
@@ -21,7 +27,7 @@ yarn install / npm install
 yarn dev / npm run dev
 ```
 
-## dir: app-completed
+## Mapp: `app-completed` 2️⃣
 
 Ferdig oppsatt eksempel av app.
 
